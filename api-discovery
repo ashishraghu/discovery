@@ -1,0 +1,4 @@
+{
+    "USER_REGISTRATION": "https://0y8e1onqt5.execute-api.us-east-1.amazonaws.com/stage/user/register",
+    "USER_ACTIVATE": "https://0y8e1onqt5.execute-api.us-east-1.amazonaws.com/stage/user/activate"
+}
